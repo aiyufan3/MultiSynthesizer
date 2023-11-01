@@ -12,9 +12,15 @@
 ##  Basic Description:  
 Leveraging musical sheets of the song "Closer" by Chainsmoker online, with a developed Python solution that translates the notes of "Closer" into structured score files. Utilizing the advanced capabilities of the Synthine platform under development, we've integrated multiple distinct synthesizer instruments into the final 'Project1' score file. Upon opening this Score file, it undergoes real-time processing to synthesize the culminating musical piece.
 
+
+https://github.com/aiyufan3/MultiSynthesizer/assets/55717488/7fd27ad4-bf24-4f58-8726-a861c0874f10
+
+
 ###  Synthesizer used in the project:
 
 **Additive Synthesizer:**
+
+https://github.com/aiyufan3/MultiSynthesizer/assets/55717488/2081017e-752f-4e4c-bfbf-7d5e9478a670
 
 An additive synthesizer generates sound by adding together multiple sine wave harmonics. Each harmonic has its frequency and amplitude, allowing for the creation of complex tones. This method is based on the principle that any sound can be broken down into a collection of sine waves.
 
@@ -32,6 +38,8 @@ An additive synthesizer generates sound by adding together multiple sine wave ha
 
 **Organ Synthesizer:**
 
+https://github.com/aiyufan3/MultiSynthesizer/assets/55717488/ffa934f0-5c18-4d9e-8fcb-9b8a423adcbe
+
 The organ synthesizer emulates the sound of traditional pipe organs. It uses drawbars to control the volume of multiple harmonic partials, allowing for a wide range of tonal possibilities. Additional effects such as Leslie speakers and vibrato can be applied to enhance the sound.
 
 *10 - Tonewheels*
@@ -42,7 +50,10 @@ The organ synthesizer emulates the sound of traditional pipe organs. It uses dra
 
 *40 - Vibrato*
 
+*50 - Leslie speaker*
 **Subtractive Synthesizer:**
+
+https://github.com/aiyufan3/MultiSynthesizer/assets/55717488/36e005a5-9109-4b6a-b762-569ec78e879f
 
 Subtractive synthesis involves sculpting sound by removing certain frequencies from a harmonically rich waveform. This is typically achieved using filters. By adjusting parameters like resonance and cutoff frequency, a variety of timbres can be produced.
 
@@ -59,6 +70,10 @@ Subtractive synthesis involves sculpting sound by removing certain frequencies f
 *50 - Filter envelopes*
 
 ###  Five-Effect-Component:
+
+
+https://github.com/aiyufan3/MultiSynthesizer/assets/55717488/448fe1f4-b15a-479e-8e6f-217f9e24b00e
+
 
 **Reverberation:**
 
