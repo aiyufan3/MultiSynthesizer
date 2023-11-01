@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+  <instrument instrument="ToneInstrument">
+    <note measure="1" beat="1" duration="0.5" note="Eb3" />
+    <note measure="1" beat="1.5" duration="0.33" note="Ab3" />
+    <note measure="1" beat="1.83" duration="0.33" note="Ab3" />
+    <note measure="2" beat="1" duration="0.5" note="Eb3" />
+    <note measure="2" beat="1.5" duration="0.5" note="Eb3" />
+    <note measure="2" beat="2.0" duration="0.33" note="Eb3" />
+    <note measure="3" beat="1" duration="0.5" note="Eb3" />
+    <note measure="3" beat="1.5" duration="0.5" note="CC3" />
+    <note measure="3" beat="2.0" duration="0.5" note="Bb3" />
+    <note measure="4" beat="1" duration="0.33" note="Bb3" />
+    <note measure="4" beat="1.33" duration="0.5" note="Ab3" />
+    <note measure="4" beat="1.83" duration="0.33" note="Ab3" />
+    <note measure="5" beat="1" duration="0.5" note="Eb3" />
+    <note measure="5" beat="1.5" duration="0.5" note="Eb3" />
+    <note measure="5" beat="2.0" duration="0.5" note="Eb3" />
+    <note measure="6" beat="1" duration="0.5" note="C3" />
+    <note measure="6" beat="1.5" duration="0.5" note="C3" />
+    <note measure="6" beat="2.0" duration="0.33" note="Bb3" />
+    <note measure="7" beat="1" duration="0.33" note="Bb3" />
+    <note measure="7" beat="1.33" duration="0.33" note="C3" />
+    <note measure="7" beat="1.66" duration="0.5" note="Ab3" />
+    <note measure="8" beat="1" duration="0.5" note="Ab3" />
+    <note measure="8" beat="1.5" duration="0.5" note="C3" />
+    <note measure="8" beat="2.0" duration="0.33" note="Bb3" />
+    <note measure="9" beat="1" duration="0.33" note="Eb3" />
+    <note measure="9" beat="1.33" duration="0.5" note="Ab3" />
+    <note measure="9" beat="1.83" duration="0.33" note="Eb3" />
+
+  </instrument>
+
+  <instrument instrument="SubtractiveInstrument">
+    <note measure="10" beat="1" duration="0.5" note="Eb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.3" sweep="up"/>
+    <note measure="10" beat="1.5" duration="0.5" note="Eb3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+    <note measure="10" beat="2.0" duration="0.33" note="C3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.4" sweep="back-down"/>
+    <note measure="11" beat="1" duration="0.33" note="C3" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.025" sweep="back-up"/>
+    <note measure="11" beat="1.33" duration="0.33" note="C3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="11" beat="1.66" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="12" beat="1" duration="0.5" note="Bb3" wavetype="Sawtooth" resonFreq="0.01" bandwidth="0.6"/>
+    <note measure="12" beat="1.5" duration="0.5" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="12" beat="2.0" duration="0.33" note="Ab3" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.6"/>
+    <note measure="13" beat="1" duration="0.5" note="C3" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.2" sweep="back-up"/>
+    <note measure="13" beat="1.5" duration="0.33" note="C3" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.2" sweep="back-up"/>
+    <note measure="13" beat="1.83" duration="0.33" note="Bb3" wavetype="Sawtooth" resonFreq="0.009" bandwidth="0.2" sweep="back-up"/>
+    <note measure="14" beat="1" duration="0.5" note="Bb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="14" beat="1.5" duration="0.33" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="14" beat="1.83" duration="0.5" note="Ab3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="15" beat="1" duration="0.33" note="Eb3" wavetype="Triangle" resonFreq="0.01134" bandwidth="0.025"/>
+    <note measure="15" beat="1.33" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="15" beat="1.66" duration="0.5" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="16" beat="1" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="16" beat="1.33" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="16" beat="1.66" duration="0.5" note="Ab3"  wavetype="Square" resonFreq="0.01134" bandwidth="0.025" sweep="back-down"/>
+    <note measure="17" beat="1" duration="0.33" note="Bb3"  wavetype="Square" resonFreq="0.01134" bandwidth="0.025" sweep="back-down"/>
+    <note measure="17" beat="1.33" duration="0.5" note="Bb3"  wavetype="Square" resonFreq="0.01134" bandwidth="0.025" sweep="back-down"/>
+    <note measure="17" beat="1.83" duration="0.5" note="A3"  wavetype="Square" resonFreq="0.01134" bandwidth="0.025" sweep="back-down"/>
+    <note measure="18" beat="1" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="18" beat="1.33" duration="0.5" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="18" beat="1.83" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="19" beat="1" duration="0.5" note="Ab3" wavetype="Square" resonFreq="0.01" bandwidth="0.2"/>
+    <note measure="19" beat="1.5" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down" />
+    <note measure="19" beat="1.83" duration="0.5" note="Bb3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+    <note measure="20" beat="1" duration="0.5" note="Bb3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+    <note measure="20" beat="1.5" duration="0.33" note="Ab3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+    <note measure="20" beat="1.83" duration="0.5" note="Ab3" wavetype="Square" resonFreq="0.01134" bandwidth="0.25" sweep="down"/>
+
+  </instrument>
+
+  <instrument instrument="AdditiveInstrument">
+    <note measure="21" beat="1" duration="0.5" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="21" beat="1.5" duration="0.5" note="Bb3" harmonics="1 .3 .5" vibrato="5" vibratoRate="6" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="21" beat="2.0" duration="0.5" note="Bb3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="22" beat="1" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="22" beat="1.33" duration="0.5" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="22" beat="1.83" duration="0.5" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="23" beat="1" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="23" beat="1.33" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="23" beat="1.66" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="23" beat="1.99" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8"/>
+    <note measure="24" beat="1" duration="0.5" note="Bb3" harmonics="1" />
+    <note measure="24" beat="1.5" duration="0.33" note="Bb3" harmonics="1" />
+    <note measure="24" beat="1.83" duration="0.33" note="Ab3" harmonics="1"/>
+    <note measure="25" beat="1" duration="0.33" note="C3" harmonics="1"/>
+    <note measure="25" beat="1.33" duration="0.33" note="Eb3" harmonics="1"/>
+    <note measure="25" beat="1.66" duration="0.33" note="C3" harmonics="1"/>
+    <note measure="25" beat="1.99" duration="0.33" note="Bb3" harmonics="1"/>
+    <note measure="26" beat="1" duration="0.5" note="Ab3" harmonics="1"/>
+    <note measure="26" beat="1.5" duration="0.5" note="Eb3" harmonics="1"/>
+    <note measure="26" beat="2.0" duration="0.33" note="C3" harmonics="1"/>
+    <note measure="27" beat="1" duration="0.33" note="Bb3" harmonics="1"/>
+    <note measure="27" beat="1.33" duration="0.33" note="Eb3" harmonics="1"/>
+    <note measure="27" beat="1.66" duration="0.5" note="Eb3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="28" beat="1" duration="0.33" note="C3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="28" beat="1.33" duration="0.33" note="Bb3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="28" beat="1.66" duration="0.33" note="Ab3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0"/>
+    <note measure="28" beat="1.99" duration="0.5" note="Eb3" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="29" beat="1" duration="0.33" note="C3" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="29" beat="1.33" duration="0.33" note="Bb3" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="29" beat="1.6600000000000001" duration="0.33" note="Bb3" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2" />
+    <note measure="29" beat="1.9900000000000002" duration="0.5" note="Bb3" />
+    <note measure="30" beat="1" duration="0.5" note="C3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="30" beat="1.5" duration="0.33" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="30" beat="1.83" duration="0.33" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="31" beat="1" duration="0.5" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="31" beat="1.5" duration="0.5" note="C3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="31" beat="2.0" duration="0.33" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="32" beat="1" duration="0.5" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="32" beat="1.5" duration="0.33" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="32" beat="1.83" duration="0.5" note="C3"  harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="33" beat="1" duration="0.5" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="33" beat="1.5" duration="0.33" note="Bb3"   harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="33" beat="1.83" duration="0.33" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="34" beat="1" duration="0.33" note="Ab3"   harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2"/>
+    <note measure="34" beat="1.33" duration="0.33" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="34" beat="1.6600000000000001" duration="0.5" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="35" beat="1" duration="0.5" note="Bb3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="35" beat="1.5" duration="0.5" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+    <note measure="35" beat="2.0" duration="0.5" note="Ab3"  harmonics="1" vibrato="4" vibratoRate="8"/>
+  </instrument>
+  
+  <instrument instrument="Organ">
+    <note measure="36" beat="1" duration="0.5" note="Bb3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="36" beat="1.5" duration="0.33" note="Bb3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="36" beat="1.83" duration="0.5" note="Ab3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="37" beat="1" duration="0.5" note="Bb3" amplitude="0.1" drawbar="082020000" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="37" beat="1.5" duration="0.33" note="Bb3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="37" beat="1.83" duration="0.33" note="C3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="38" beat="1" duration="0.5" note="Ab3" amplitude="0.1" drawbar="082020000" leslieFreq="4.5" leslieRadius="15" leslieAttackTime="0.5"/>
+    <note measure="38" beat="1.5" duration="0.33" note="Bb3" amplitude="0.1" leslieFreq="4.5" leslieRadius="15" leslieAttackTime="0.5"/>
+    <note measure="38" beat="1.83" duration="0.33" note="Bb3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.3"/>
+    <note measure="39" beat="1" duration="0.33" note="Ab3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.3"/>
+    <note measure="39" beat="1.33" duration="0.5" note="Ab3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="39" beat="1.83" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="40" beat="1" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="40" beat="1.5" duration="0.5" note="C3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="40" beat="2.0" duration="0.5" note="Ab3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="41" beat="1" duration="0.5" note="Bb3" amplitude="0.1" drawbar="502020500" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="41" beat="1.5" duration="0.5" note="Bb3" amplitude="0.1" drawbar="502020500" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="41" beat="2.0" duration="0.5" note="Ab3" amplitude="0.1" drawbar="502020500" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="42" beat="1" duration="0.33" note="Ab3" amplitude="0.1" drawbar="502020500" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="42" beat="1.33" duration="0.33" note="Bb3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="42" beat="1.6600000000000001" duration="0.33" note="Bb3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="42" beat="1.9900000000000002" duration="0.5" note="C3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="43" beat="1" duration="0.33" note="Ab3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="43" beat="1.33" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="3" leslieRadius="10" leslieAttackTime="0.5" leslieReleaseTime="1.0"/>
+    <note measure="43" beat="1.83" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="3"/>
+    <note measure="44" beat="1" duration="0.33" note="Ab3" amplitude="0.1" leslieFreq="3"/>
+    <note measure="44" beat="1.33" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="3"/>
+    <note measure="44" beat="1.83" duration="0.33" note="Bb3" amplitude="0.1" leslieFreq="3"/>
+    <note measure="45" beat="1" duration="0.5" note="Ab3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="45" beat="1.5" duration="0.33" note="Ab3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="45" beat="1.83" duration="0.5" note="Bb3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="46" beat="1" duration="0.5" note="Bb3" amplitude="0.1" attack="0.05" decay="0.05" release="0.01" leslieRadius="0.0" leslieAttackTime="0.0" leslieFreq="0.0" vibratoFreq="0" vibratoFlag="0"/>
+    <note measure="46" beat="1.5" duration="0.5" note="Ab3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="46" beat="2.0" duration="0.33" note="Ab3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="47" beat="1" duration="0.5" note="C3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="47" beat="1.5" duration="0.5" note="C3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1"/>
+    <note measure="47" beat="2.0" duration="0.5" note="Ab3" amplitude="0.1" leslieFreq="7" leslieRadius="5" leslieAttackTime="0.5"/>
+    <note measure="48" beat="1" duration="0.33" note="Ab3" amplitude="0.1" leslieFreq="7" leslieRadius="5" leslieAttackTime="0.5"/>
+    <note measure="48" beat="1.33" duration="0.33" note="Bb3" amplitude="0.1" leslieFreq="7" leslieRadius="5" leslieAttackTime="0.5"/>
+    <note measure="48" beat="1.6600000000000001" duration="0.5" note="Bb3" amplitude="0.1" leslieFreq="7" leslieRadius="5" leslieAttackTime="0.5"/>
+    <note measure="49" beat="1" duration="0.33" note="Ab3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1" />
+    <note measure="49" beat="1.33" duration="0.33" note="Ab3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1" />
+    <note measure="49" beat="1.6600000000000001" duration="0.33" note="C3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1" />
+    <note measure="49" beat="1.9900000000000002" duration="0.5" note="C3" amplitude="0.1" vibratoFreq="5" vibratoFlag="1" />
+
+  </instrument>
+
+  <instrument instrument="ToneInstrument">
+    <note measure="50" beat="1" duration="0.5" note="Ab3" />
+    <note measure="50" beat="1.5" duration="0.5" note="Ab3" />
+    <note measure="50" beat="2.0" duration="0.5" note="Bb3" />
+    <note measure="51" beat="1" duration="0.33" note="Bb3" />
+    <note measure="51" beat="1.33" duration="0.33" note="Ab3" />
+    <note measure="51" beat="1.6600000000000001" duration="0.5" note="Ab3" />
+    <note measure="52" beat="1" duration="0.33" note="C3" />
+    <note measure="52" beat="1.33" duration="0.5" note="C3" />
+    <note measure="52" beat="1.83" duration="0.5" note="Ab3" />
+    <note measure="53" beat="1" duration="0.33" note="Ab3" />
+    <note measure="53" beat="1.33" duration="0.5" note="Bb3" />
+    <note measure="53" beat="1.83" duration="0.5" note="Bb3" />
+    <note measure="54" beat="1" duration="0.33" note="Ab3" />
+    <note measure="54" beat="1.33" duration="0.5" note="Eb3" />
+    <note measure="54" beat="1.83" duration="0.5" note="Eb3" />
+    <note measure="55" beat="1" duration="0.5" note="Eb3" />
+    <note measure="55" beat="1.5" duration="0.33" note="Eb3" />
+    <note measure="55" beat="1.83" duration="0.5" note="C3" />
+    <note measure="56" beat="1" duration="0.33" note="C3" />
+    <note measure="56" beat="1.33" duration="0.33" note="C3" />
+    <note measure="56" beat="1.6600000000000001" duration="0.33" note="Bb3" />
+    <note measure="56" beat="1.9900000000000002" duration="0.33" note="Bb3" />
+    <note measure="57" beat="1" duration="0.33" note="Ab3" />
+    <note measure="57" beat="1.33" duration="0.33" note="C3" />
+    <note measure="57" beat="1.6600000000000001" duration="0.33" note="Eb3" />
+    <note measure="57" beat="1.9900000000000002" duration="0.5" note="F3" />
+    <note measure="58" beat="1" duration="0.5" note="C3" />
+    <note measure="58" beat="1.5" duration="0.33" note="C3" />
+    <note measure="58" beat="1.83" duration="0.33" note="Bb3" />
+    <note measure="59" beat="1" duration="0.33" note="Bb3" />
+    <note measure="59" beat="1.33" duration="0.5" note="C3" />
+    <note measure="59" beat="1.83" duration="0.5" note="Ab3" />
+    <note measure="60" beat="1" duration="0.5" note="Ab3" />
+    <note measure="60" beat="1.5" duration="0.33" note="C3" />
+    <note measure="60" beat="1.83" duration="0.5" note="Bb3" />
+    <note measure="61" beat="1" duration="0.33" note="Eb3" />
+    <note measure="61" beat="1.33" duration="0.33" note="Eb3" />
+    <note measure="61" beat="1.6600000000000001" duration="0.33" note="Eb3" />
+    <note measure="61" beat="1.9900000000000002" duration="0.33" note="Eb3" />
+    <note measure="62" beat="1" duration="0.5" note="Eb3" />
+    <note measure="62" beat="1.5" duration="0.5" note="C3" />
+    <note measure="62" beat="2.0" duration="0.33" note="C3" />
+    <note measure="63" beat="1" duration="0.5" note="Bb3" />
+    <note measure="63" beat="1.5" duration="0.33" note="Bb3" />
+    <note measure="63" beat="1.83" duration="0.5" note="Ab3" />
+    <note measure="64" beat="1" duration="0.33" note="C3" />
+    <note measure="64" beat="1.33" duration="0.5" note="Eb3" />
+    <note measure="64" beat="1.83" duration="0.33" note="F3" />
+    <note measure="65" beat="1" duration="0.5" note="C3" />
+    <note measure="65" beat="1.5" duration="0.5" note="C3" />
+    <note measure="65" beat="2.0" duration="0.5" note="Bb3" />
+    <note measure="66" beat="1" duration="0.33" note="Bb3" />
+    <note measure="66" beat="1.33" duration="0.5" note="C3" />
+    <note measure="66" beat="1.83" duration="0.5" note="C3" />
+    <note measure="67" beat="1" duration="0.33" note="Bb3" />
+    <note measure="67" beat="1.33" duration="0.33" note="Ab3" />
+    <note measure="67" beat="1.6600000000000001" duration="0.5" note="Ab3" />
+    <note measure="68" beat="1" duration="0.5" note="Ab3" />
+    <note measure="68" beat="1.5" duration="0.5" note="Ab3" />
+    <note measure="68" beat="2.0" duration="0.33" note="Bb3" />
+    <note measure="69" beat="1" duration="0.5" note="Bb3" />
+    <note measure="69" beat="1.5" duration="0.5" note="Ab3" />
+    <note measure="69" beat="2.0" duration="0.33" note="Ab3" />
+    <note measure="70" beat="1" duration="0.33" note="Ab3" />
+    <note measure="70" beat="1.33" duration="0.33" note="Ab3" />
+    <note measure="70" beat="1.6600000000000001" duration="0.5" note="Ab3" />
+    <note measure="71" beat="1" duration="0.5" note="Ab3" />
+    <note measure="71" beat="1.5" duration="0.33" note="Bb3" />
+    <note measure="71" beat="1.83" duration="0.33" note="Bb3" />
+    <note measure="72" beat="1" duration="0.5" note="Ab3" />
+    <note measure="72" beat="1.5" duration="0.33" note="Ab3" />
+    <note measure="72" beat="1.83" duration="0.5" note="Ab3" />
+    <note measure="73" beat="1" duration="0.5" note="Bb3" />
+    <note measure="73" beat="1.5" duration="0.5" note="Bb3" />
+    <note measure="73" beat="2.0" duration="0.5" note="Ab3" />
+    <note measure="74" beat="1" duration="0.33" note="Ab3" />
+    <note measure="74" beat="1.33" duration="0.33" note="Ab3" />
+    <note measure="74" beat="1.6600000000000001" duration="0.5" note="Ab3" />
+    <note measure="75" beat="1" duration="0.33" note="Ab3" />
+    <note measure="75" beat="1.33" duration="0.33" note="Ab3" />
+    <note measure="75" beat="1.6600000000000001" duration="0.5" note="Ab3" />
+    <note measure="76" beat="1" duration="0.33" note="Bb3" />
+    <note measure="76" beat="1.33" duration="0.5" note="Bb3" />
+    <note measure="76" beat="1.83" duration="0.5" note="Ab3" />
+    <note measure="77" beat="1" duration="0.5" note="Bb3" />
+    <note measure="77" beat="1.5" duration="0.5" note="C3" />
+    <note measure="77" beat="2.0" duration="0.33" note="Bb3" />
+  </instrument>
+
+  <!-- EFFECTS -->
+  <instrument instrument="NoiseGate">
+    <note measure="1" delay=".0025" wet="1" dry="0" threshold=".1" />
+    <note measure="2" delay=".0025" wet=".75" dry=".25" threshold=".1" />
+    <note measure="2" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+    <note measure="3" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="4" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="4" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Chorus">
+    <note measure="5" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="5" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="6" beat="3" delay=".0025" wet=".7" dry=".3" />
+    <note measure="6" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="7" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="7" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Flange">
+    <note measure="8" delay=".0025" wet=".5" dry="0" />
+    <note measure="8" delay=".0025" wet="1" dry="0" />
+    <note measure="9" delay=".0025" wet="1" dry="0" />
+    <note measure="9" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="9" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="9" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Compress">
+    <note measure="10" delay=".0025" wet="1" dry="0" threshold=".005" />
+    <note measure="10" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="11" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="11" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Reverb">
+    <note measure="12" beat="3" delay="1" wet=".5" dry=".5" />
+    <note measure="12" beat="3" delay=".75" wet="1" dry="0" />
+    <note measure="13" beat="3" delay=".0025" wet=".7" dry=".3" />
+    <note measure="13" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="14" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="14" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+</score>

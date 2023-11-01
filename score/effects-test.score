@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+	<instrument instrument="AdditiveInstrument">
+	<note measure="1" beat="1" duration="4" note="Eb3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0" />
+	<note measure="2" beat="1" duration="4" note="Ab3" harmonics="1 .3 .5" vibrato="5" vibratoRate="6" crossfade="1" crossfadeOverlap="2" />
+	<note measure="2" beat="3" duration="2" note="Ab2" harmonics="1" vibrato="12" vibratoRate="8" />
+	<note measure="3" beat="1" duration="2" note="Eb3" harmonics="1" />
+	<note measure="3" beat="3" duration="2" note="Eb3" harmonics="1" />
+	<note measure="4" beat="1" duration="4" note="Eb3" harmonics="1" vibrato="12" vibratoRate="8" />
+	<note measure="5" beat="1" duration="4" note="Eb3" harmonics="1 .5 .7" vibrato="12" vibratoRate="8" />
+	<note measure="6" beat="1" duration="4" note="C3" harmonics="1" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="0" />
+	<note measure="7" beat="1" duration="4" note="Bb3" harmonics="1 .3 .5" vibrato="12" vibratoRate="8" crossfade="1" crossfadeOverlap="2" />
+	<note measure="7" beat="3" duration="2" note="Bb3" harmonics="1" vibrato="4" vibratoRate="8" />
+	<note measure="8" beat="3" duration="2" note="Ab3" harmonics="1" vibrato="4" vibratoRate="8" />
+	<note measure="9" beat="3" duration="2" note="Ab3" harmonics="1" vibrato="4" vibratoRate="8" />
+	<note measure="10" beat="3" duration="2" note="Eb3" harmonics="1" vibrato="4" vibratoRate="8" />
+	<note measure="11" beat="3" duration="2" note="B4" harmonics="1" vibrato="4" vibratoRate="8"  />
+  </instrument>
+  <!-- EFFECTS -->
+  <instrument instrument="NoiseGate">
+    <note measure="1" delay=".0025" wet="1" dry="0" threshold=".1" />
+    <note measure="2" delay=".0025" wet=".75" dry=".25" threshold=".1" />
+    <note measure="2" delay=".0025" wet=".5" dry=".5" threshold=".1" />
+    <note measure="3" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="4" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="4" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Chorus">
+    <note measure="5" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="5" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="6" beat="3" delay=".0025" wet=".7" dry=".3" />
+    <note measure="6" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="7" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="7" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Flange">
+    <note measure="8" delay=".0025" wet=".5" dry="0" />
+    <note measure="8" delay=".0025" wet="1" dry="0" />
+    <note measure="9" delay=".0025" wet="1" dry="0" />
+    <note measure="9" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="9" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="9" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Compress">
+    <note measure="10" delay=".0025" wet="1" dry="0" threshold=".005" />
+    <note measure="10" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="11" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="11" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+  <instrument instrument="Reverb">
+    <note measure="12" beat="3" delay="1" wet=".5" dry=".5" />
+    <note measure="12" beat="3" delay=".75" wet="1" dry="0" />
+    <note measure="13" beat="3" delay=".0025" wet=".7" dry=".3" />
+    <note measure="13" beat="3" delay=".0025" wet=".5" dry=".5" />
+    <note measure="14" beat="3" delay=".0025" wet="1" dry="0" />
+    <note measure="14" beat="3" delay=".0025" wet=".7" dry=".3" />
+  </instrument>
+</score>
