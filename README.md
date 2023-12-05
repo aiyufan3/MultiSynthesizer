@@ -1,4 +1,4 @@
-#  Project-1-MultiSynthesizer
+#  MultiSynthesizer
 
 
 ##  Selection title: "Closer-Chainsmoker Remix"
