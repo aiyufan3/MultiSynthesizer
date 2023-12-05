@@ -4,10 +4,6 @@
 ##  Selection title: "Closer-Chainsmoker Remix"
 
 
-##  Group members: 
-**Yufan Ai** - Organ Synthesis, Subtractive Synthesis, Menu Handler of Effects, One Effect Component
-
-**Ziqi Liu** - Four Effects component, Additive Synthesis, Score files
 
 ##  Basic Description:  
 Leveraging musical sheets of the song "Closer" by Chainsmoker online, with a developed Python solution that translates the notes of "Closer" into structured score files. Utilizing the advanced capabilities of the Synthine platform under development, we've integrated multiple distinct synthesizer instruments into the final 'Project1' score file. Upon opening this Score file, it undergoes real-time processing to synthesize the culminating musical piece.
